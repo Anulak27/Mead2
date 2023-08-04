@@ -1,0 +1,52 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: whitesmoke
+}
+
+.background_mainDiv {
+    border: 1px solid lightgreen;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.background_mainDiv img {
+    width: 100%
+}
+
+.background_mainDiv hr {
+    width: 230px;
+}
+
+.background_mainDiv h5,
+travel_mainDiv p {
+    margin-left 20px;
+}
+
+.school_ratings {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.school_ratings i {
+    float: right;
+}
+
+.school_ratings span {
+    color: #ffe600
+}
